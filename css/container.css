@@ -1,0 +1,249 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-container {
+    width: 100vw;
+    background-image: url("../images/header-bg.jpg");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100vw;
+    height: 1100px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+.second-container {
+    background-color: rgb(26, 36, 64);
+    height: 1550px !important;
+    text-align: center;
+}
+
+.header-container {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    height: 54px;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+
+#navbarSupportedContent {
+    margin-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.enquire-btn {
+    width: 159px;
+    height: 40px;
+    left: 1169px;
+    border-radius: 8px;
+    float: right;
+    font-size: 12px;
+}
+
+.header-menu a {
+    color: aliceblue;
+    font-size: 12px;
+    margin-right: 25px;
+}
+
+.header-icons {
+    margin: 0 auto !important;
+    text-align: center;
+}
+
+.mumbai-btn {
+    font-size: 14px;
+    width: 241px;
+    height: 56px;
+    border: 1.5px solid white;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 400px;
+    color: aliceblue;
+    border-color: aliceblue !important;
+}
+
+.heading-text {
+
+    text-align: center;
+    margin-top: 500px;
+
+}
+#discoverProject{
+    width: 160px;
+height: 150px;
+margin-top: 100px;
+}
+
+.heading-text h1 {
+    font-size: 160px;
+    font-family: Gabriela;
+    font-weight: 500;
+}
+
+.heading-text h4 {
+    font-size: 30px;
+    color: #00E5A1;
+}
+#down-arrow {
+    margin-top: 67px !important;
+    Width:100px;
+Height: 90px;
+z-index: 100 ;
+}
+.search-container{
+    margin-top: 150px;
+    text-align: left;
+
+}
+.search-container p {
+    font-size: 23px;
+    margin-left: 0;
+    color: aliceblue;
+    font-weight: 300;
+    margin: 0;padding: 0;
+}
+
+.project-info{
+    margin-top: 350px;
+    text-align: left;
+}
+
+.image-container {
+    position: relative; /* Container needs relative positioning for absolute positioning of child images */
+  }
+  
+  .background-image {
+    width: 60%;
+    height: auto;
+  }
+  
+  .overlay-image {
+    position: absolute;
+    top: 50%; /* Adjust as needed */
+    left: 50%; /* Adjust as needed */
+    transform: translate(-20%, -62%); /* Center the image precisely */
+    width: 60%;
+    height: auto;
+  }
+  #info-small{
+    font-size: 15px;
+    color: #00E5A1;
+  }
+  #info-project{
+    margin-top: 100px;
+    background-color: rgb(26, 36, 64);
+  }
+  #info-heading{
+    font-size: 50px;
+    color: white;
+    font-family: 'Gabriela', serif;
+  }
+  #info-text {
+    font-size: 16px;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  #info-count{
+    background-color: rgb(26, 36, 64);
+    margin-top: 100px;
+    text-align: center;
+  }
+  #count-heading{
+    font-size: 40px;
+    color: #00E5A1;
+    font-family: 'Gabriela', serif;
+  }
+  #count-text {
+    font-size: 12px;
+    color: white;
+  }
+  .footer-section{
+    text-align: center;
+    padding-top: 80px;
+    border-color: aliceblue;
+    background-color:#F3F4F9;
+  }
+  .footer-section h4{
+    font-size: 25px;
+    font-family: 'Gabriela', serif;
+  }
+  .footer-section img {
+    background-color: #1A2541;
+    padding: 10px;
+    border-radius: 100px;
+  }
+  .footer-section h1{
+    font-size: 60px;
+    font-family: 'Gabriela', serif;
+  }
+  .footer-links a {
+margin-left: 5px;
+margin-top: 100px;
+  }
+  #twitter-bg :hover{
+    background-color: #00E5A1 !important;
+  }
+    #twitter-bg{
+    background-color: #00E5A1 !important;
+  }
+  #insta-fb-bg{
+    background-color: #fff;
+  }
+  #footer-logo {
+    background-color:#F3F4F9 ;
+    margin-top: 100px;
+  }
+  #copyright-text{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 100px;
+  }
+  .contact-section{
+    background-color: #1A2541;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  #left-content {
+    text-align: left;
+    font-size: 50px;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+  }
+  #neighbourhood-text{
+    color: #A5A5A5;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+   padding-left: 10px;
+  }
+  hr{
+    color: #F3F4F9;
+    border: 1px solid white;
+  }
+  .locations{
+    color: aliceblue;
+  }
+  #align-left{
+    text-align: left;
+  }
+  #form-h2 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Gabriela', serif;
+    text-align: left;
+  }
+  #form-p {
+    color: #A5A5A5;
+    font-size: 12px;
+    font-family: 'Gabriela', serif;
+    text-align: left;
+  }
