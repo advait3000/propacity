@@ -48,7 +48,7 @@ function sendDataToAPI(data) {
 // gapi.load('client', function () {
 //     // Initialize the Google API client
 //     gapi.client.init({
-//       apiKey: 'AIzaSyDOMq5PJA2z6v_yZufYM_UOaHEUwOUzrOc',
+//       apiKey: 'API Key',
 //       discoveryDocs: ['https://sheets.googleapis.com/$discovery/rest?version=v4']
 //     })
 //     .then(function () {
